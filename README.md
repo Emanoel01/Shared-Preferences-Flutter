@@ -1,5 +1,7 @@
 # manipulacao_dados_preferencias
 
+obs: projeto desenvolvido no curso de flutter.
+
 A new Flutter project.
 
 ## Getting Started
