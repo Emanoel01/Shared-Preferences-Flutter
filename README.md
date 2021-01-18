@@ -2,7 +2,7 @@
 
 obs: projeto desenvolvido no curso de flutter.
 
-A new Flutter project.
+projeto desenvolvido para o estudo da biblioteca de shared preferences
 
 ## Getting Started
 
